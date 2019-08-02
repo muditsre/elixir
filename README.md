@@ -1,1 +1,3 @@
 #Elixir
+
+iex -S mix
